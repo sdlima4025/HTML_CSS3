@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+body {
+    background-color: white;
+    font-family: 'Prompt', sans-serif;
+}
+.exemplo__back{
+height: 300px;
+
+background-size: cover;
+margin-bottom: 100px;
+
+
+}
+.titulo {
+background-color: #000;
+color: #FFF;
+text-align: center;
+border-radius: 40px;
+padding: 10px;
+font-family: 'Orbitron', sans-serif;
+font-size: 20px;  
+font-style: oblique;
+font-weight: bold;
+}
+p {
+    color: #000;
+    margin-left: 20px;
+    text-align: justify;
+   letter-spacing: 5px;
+   text-indent: 50px;
+    font-size: 20px;
+    line-height: 1.2;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+h2, p {
+    /* color: #000;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: justify;
+    padding: 10px;
+    margin: 30px  ; */
+}
+.botao {
+    margin-left: 33%;
+    /* background-color: #000;
+    color: #FFF;
+    padding: 30px 50px 30px 50px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: 700; */
+
+}
+.botao:hover {
+    background-color: blue;
+    
+}
+.teste {
+    max-width: 800px;
+    height: 250px;
+    
+}
+a.botao1{
+    background-color: darkgreen;
+    color: #FFF;
+    padding: 10px;
+    text-decoration: none;
+    border: 4px solid greenyellow;
+    border-radius: 10px;
+}
+
+a.botao1:hover{
+    background-color: rgb(6, 211, 6);
+    padding: 15px;
+    border: 4px solid rgb(80, 124, 13);
+}
+
+a.botao2 {
+    text-decoration: none;
+    padding: 10px;
+    border: 5px double blue;
+    color: blue;
+    border-radius: 20px;
+}
+
+a.botao2:hover {
+    text-decoration: underline;
+    padding: 8px;
+    background: blue;
+    color: #FFF;
+
+}

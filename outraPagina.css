@@ -1,0 +1,32 @@
+.titulo1 {
+    background-color: black;
+    color: #3a0303;
+    text-align: center;
+    border-radius: 40px;
+    padding: 10px;
+
+}
+
+.botao {
+    margin-left: 33%;
+    background-color: #000;
+    color: #FFF;
+    padding: 30px 50px 30px 50px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: 700;
+    
+    
+ 
+
+}
+.botao:hover {
+    background-color: blue;
+    
+}
+
+
+
+h2 {
+    text-align: center;
+}
